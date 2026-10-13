@@ -27,8 +27,8 @@ export default defineConfig(() => {
         ],
         manifest: {
           id: '/',
-          name: 'Buku Kas Google Sheet',
-          short_name: 'Google Sheet',
+          name: 'Kas Digital',
+          short_name: 'Kas Digital',
           description: 'Aplikasi pencatatan kas masuk dan kas keluar terhubung Google Sheets & Apps Script.',
           theme_color: '#0F9D58',
           background_color: '#ffffff',

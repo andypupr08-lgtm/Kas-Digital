@@ -73,7 +73,7 @@ export const Sidebar: React.FC<SidebarProps> = ({
             </div>
             <div>
               <h1 className="text-sm font-bold text-white tracking-wide">
-                Buku Kas Digital
+                Kas Digital
               </h1>
               <p className="text-[10px] text-emerald-400 font-semibold flex items-center gap-1">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 inline-block animate-pulse"></span>

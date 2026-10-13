@@ -106,7 +106,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
         </div>
         
         <h2 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
-          Buku Kas Google Sheet
+          Kas Digital
         </h2>
         <p className="mt-1 text-sm text-slate-400">
           Sistem Pembukuan Terhubung Google Sheets & Apps Script

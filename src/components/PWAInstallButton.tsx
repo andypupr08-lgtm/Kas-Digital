@@ -29,7 +29,7 @@ export const PWAInstallButton: React.FC<PWAInstallButtonProps> = ({ variant = 's
           </div>
           <div className="flex-1 min-w-0 pr-2">
             <h4 className="text-xs font-bold text-slate-100 flex items-center gap-1.5">
-              <span>Install Buku Kas</span>
+              <span>Install Kas Digital</span>
               <span className="px-1.5 py-0.5 rounded text-[10px] bg-emerald-500/20 text-emerald-300 font-semibold">PWA</span>
             </h4>
             <p className="text-[11px] text-slate-300 mt-1 leading-snug">
@@ -85,7 +85,7 @@ export const PWAInstallButton: React.FC<PWAInstallButtonProps> = ({ variant = 's
         <button
           onClick={install}
           className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-bold shadow-xs transition active:scale-95 cursor-pointer"
-          title="Install Buku Kas sebagai Aplikasi (PWA)"
+          title="Install Kas Digital sebagai Aplikasi (PWA)"
         >
           <Download className="w-3.5 h-3.5" />
           <span className="hidden sm:inline">Install App</span>
@@ -209,7 +209,7 @@ const IOSInstallModal: React.FC<{ onClose: () => void }> = ({ onClose }) => {
                 Ketuk "Tambah" / "Add" di pojok kanan atas
               </p>
               <p className="text-slate-500 mt-0.5">
-                Ikon aplikasi Buku Kas akan otomatis muncul di layar utama gadget Anda.
+                Ikon aplikasi Kas Digital akan otomatis muncul di layar utama gadget Anda.
               </p>
             </div>
           </div>

@@ -430,7 +430,7 @@ export const PWAIconModal: React.FC<PWAIconModalProps> = ({ isOpen, onClose }) =
                   <div className="bg-white dark:bg-slate-900 rounded-lg p-2.5 shadow-sm border border-slate-200 dark:border-slate-700 flex items-center gap-2">
                     <img src="/favicon-32x32.png" alt="Favicon" className="w-4 h-4 flex-shrink-0" />
                     <span className="text-xs font-semibold text-slate-800 dark:text-slate-200 truncate">
-                      Buku Kas Google Sheet
+                      Kas Digital
                     </span>
                     <span className="text-slate-400 text-xs ml-auto">×</span>
                   </div>

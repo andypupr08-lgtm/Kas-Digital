@@ -483,7 +483,7 @@ export default function App() {
         <footer className="bg-white border-t border-slate-200 py-4 px-6 text-center text-xs text-slate-400 mt-auto">
           <div className="max-w-7xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2">
             <div>
-              <span>Buku Kas Digital • Terhubung Google Sheets</span>
+              <span>Kas Digital • Terhubung Google Sheets</span>
             </div>
             <div>
               <span>Login sebagai: <strong>{currentUser.nama}</strong> ({currentUser.role.toUpperCase()})</span>
