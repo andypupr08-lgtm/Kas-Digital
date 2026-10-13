@@ -1,0 +1,8 @@
+{
+  "name": "Aplikasi Kas Google Apps Script",
+  "description": "Aplikasi pencatatan kas masuk dan kas keluar terhubung Google Sheets & Apps Script dengan otentikasi multi-role (Admin dan User), halaman terpisah untuk Dashboard & Riwayat Transaksi, serta kontrol hak akses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
